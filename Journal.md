@@ -63,14 +63,15 @@ I'm not sure if this was just an issue I was too inexperienced to fix, but I cou
 the Keeb docs recommended because not all the GPIO pins were shown. I tried to modify the symbol, but eventually I just found a new
 symbol off of Github that had all the pins.
 
-<img src="photos/new Pico symbol.png">
+<img src="photos/new Pico symbol.png" width="30%">
 <br>
 
 I wish I took a screenshot at the time, but when it came to running the DRC, I had so many errors (186 to be exact) and many more warnings.
-It took many KiCad forum and Reddit rabitholes to fix these errors (thermal spokes, Gnd zones, unconnected tracks).
+It took many KiCad forum and Reddit rabbitholes to fix these errors (thermal spokes, Gnd zones, unconnected tracks).
 
 The achievement I'm most proud of in this whole project: having no errors!
-| | |
+(warnings were all related to silkscreen due to positioning of Pico and mounting holes, which I didn't want to move)
+|Left DRC|Right DRC|
 | --- | --- |
 | <img src="photos/left DRC.png"> | <img src="photos/right DRC.png"> |
 
@@ -78,8 +79,6 @@ This was also the time I realized my big mistake of not making two separate proj
 I had to make many backup versions and restart KiCad a lot to somehow separate the two PCBs without losing all my progress.
 Unfortunately, when I redid my schematic editor and updated my PCB in the PCB editor, the whole layout was lost and I basically had to redo it (you will see that redoing things will be a continuity throughout the development of this keyboard).
 
-Final version of schematics:
-### // screenshots of final schematic
 
 ## Section 4: Making the PCB Part 2 - Connecting the PCBs (6 hours: 1.5 hours for research and 4.5 hours for editing the PCB and schematic)
 
@@ -90,9 +89,24 @@ Knowing me, I would definitely accidentally unplug the cable, so I opted for an 
 It took me a while to figure out how to route the RJ45, and because specific GPIO pins supported Tx and Rx, I had to move some of my columns and rows around in the schematic,
 resulting in having to redo all the routing.
 
-### // screenshots of RJ45
+|left RJ45|right RJ45|
+| --- | --- |
+| <img src="photos/left RJ45 socket layout.png"> | <img src="photos/right RJ45 layout.png"> |
 <br>
+I wanted to thank and credit MagoSaronno (https://github.com/MagoSaronno) who made the Keyther (https://github.com/MagoSaronno/keyther). It was really helpful seeing a public project that used the same socket, RJ45, that I wanted to use.
 
-Final versions of PCB:
-<img src="photos/revised_left_pcb.png">
-<img src="photos/revised_right_pcb.png">
+---
+
+### Final version of schematics:
+<img src="photos/final left schematic.png" width="80%">
+<img src="photos/final right schematic.png" width="80%">
+
+### Final versions of PCB:
+<img src="photos/revised_left_pcb.png" width="80%">
+<img src="photos/revised_right_pcb.png" width="80%">
+
+### 3D view of PCB:
+|left viewer|right viewer|
+| --- | --- | 
+| <img src="photos/kicad left 3D viewer front.png"> <img src="photos/kicad left 3D viewer side view.png">| <img src="photos/kicad right 3D viewer front.png"> <img src="photos/kicad right 3D viewer side view.png">|
+
