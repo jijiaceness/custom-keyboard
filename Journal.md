@@ -106,30 +106,58 @@ I wanted to thank and credit MagoSaronno (https://github.com/MagoSaronno) who ma
 <img src="photos/revised_right_pcb.png" width="80%">
 
 ### 3D view of PCB:
-|left viewer|right viewer|
+|left view|right view|
 | --- | --- | 
 | <img src="photos/kicad left 3D viewer front.png"> <img src="photos/kicad left 3D viewer side view.png">| <img src="photos/kicad right 3D viewer front.png"> <img src="photos/kicad right 3D viewer side view.png">|
 
 ## Section 5: Designing the case on Onshape (11 hours: 8 hours for the right, 3 hours for the left)
 Similar to using KiCad, I went through a lot of trial and error when designing my case on Onshape. I started with the right side, which is why they took much longer than the left.
 My sketches at the beginning were a mess and I had to redo them many times. Here is my final sketch, which still looks pretty complicated because of the complex shape.
-### insert images of right base sketch
+<img src="photos/right base sketch.png" width="70%">
+<br>
+
 I also had issues with importing my PCB and the attached 3D models because there were too many parts. I had to manually delete most of the parts so Onshape wouldn't take a minute to load every edit I made.
-### insert image of end amount of parts
+<img src="photos/right PCB model onshape.png" width="70%">
+<br>
+
+The right case with the base and plate done:
+<img src="photos/right_side_with_top_plate.png">
+<br>
+I did have to make a few changes to the width of the walls later to accommodate for the screws needed for my mounting style (top mounting).
 
 The left side was so much easier because I had ironed out all of the difficult parts when developing the right case. I was also much more experienced with using Onshape, and that sped up the process even more.
-### image of parts and left base sketch
+|base sketch|PCB after deleting parts|
+| --- | --- |
+| <img src="photos/left base sketch.png"> | <img src="photos/left PCB model onshape.png"> |
+<br>
+
+The left case with the base and plate done:
+<img src="photos/left_model_in_progress.png">
+<br>
 
 ## Section 6: Writing the Firmware in QMK (4 hours)
 I thought this section might take a long time as well, but surprisingly, I finished writing the firmware pretty quickly. I'll definitely have to troubleshoot it when I actually get my board, but I do at least have a base to start with.
 
-The most difficult part of writing the firmware was integrating QMK into VSCode. For some reason, the keymaps.c file kept giving errors when they weren't supposed to because VSCode didn't recognize the syntax. Somehow, I managed to get my files to work, I'm honestly still not sure what exactly was the problem.
-### image of files
+The most difficult part of writing the firmware was integrating QMK into VSCode. For some reason, the keymaps.c file kept giving errors when they weren't supposed to because VSCode didn't recognize the syntax. Somehow, I managed to get my files to work, I'm honestly still not sure what exactly was the problem. I think the extensions I installed for QMK might've been clashing with VSCodes's native syntax checker.
+
+<img src="photos/QMK working files.png" width="30%">
+<br>
 
 Anyways, I made my project under the Lily58 directory because their keyboard seemed the most similar to mine. They used a json instead of a c file for their keymap however, so I had to look up some tutorials and other keyboards to write mine in C. This guide (https://vikasraj.dev/blog/qmk-pi-pico-rp2040) and the QMK docs were also extremely helpful for coding the connection between split keyboards with RP2040. I spent a lot of time reading the docs to understand how the info.json, layouts.h, and keymaps worked in relation to each other.
 
+Info.json in progress:
+
+<img src="photos/info.json_in_progress.png" width="70%">
+<br>
+keyboard.h in progress:
+
+<img src="photos/keyboard.h_in_progress.png" width="70%">
+<br>
+
 Planning the layers I wanted for my keyboard was pretty fun. I was pretty ambitious in what I wanted my keyboard to be capable of so hopefully they will be useful when I flash my PCB and actually make use of the layers.
 
-### images of paper sketch of layers
-### iamges of firmware in progress
+<img src="photos/layers_sketch.jpeg" width="25%">
+<br>
+Making the keymaps:
+<img src="photos/keymaps_in_progress.png" width="70%">
 
