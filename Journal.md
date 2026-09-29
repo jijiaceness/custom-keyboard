@@ -166,4 +166,9 @@ Making the keymaps:
 I made the BOM and README all at once since I was in a bit of a time crunch (the program ends very soon at the time I'm writing this).
 
 <img src="photos/BOM_sheet.png" width="60%">
+<br>
+
+**Finally submitted!!**
+
+<img src="photos/submission_screenshot.png" width="40%">
 
