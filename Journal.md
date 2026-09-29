@@ -156,8 +156,14 @@ keyboard.h in progress:
 
 Planning the layers I wanted for my keyboard was pretty fun. I was pretty ambitious in what I wanted my keyboard to be capable of so hopefully they will be useful when I flash my PCB and actually make use of the layers.
 
-<img src="photos/layers_sketch.jpeg" width="25%">
+<img src="photos/layers_sketch.jpeg" width="60%">
 <br>
 Making the keymaps:
 <img src="photos/keymaps_in_progress.png" width="70%">
+
+## Section 7: Finalizing for Submission (3 hours)
+
+I made the BOM and README all at once since I was in a bit of a time crunch (the program ends very soon at the time I'm writing this).
+
+<img src="photos/BOM_sheet.png" width="60%">
 
