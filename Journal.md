@@ -1,4 +1,4 @@
-# Keeb journal of my development process (as a complete beginner)
+# Keeb journal of development process (as a complete beginner) - 38 hours total
 
 ## Section 1: Brainstorming (1 hour)
 
