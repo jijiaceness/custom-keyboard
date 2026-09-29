@@ -1,7 +1,7 @@
 # My Custom Keyboard: Overview
 
 This is a fully custom 53-key split mechanical keyboard built from scratch, from the PCB to the 3D-printed case, developed with the support of Hack Club Program Keeb. 
-I came into this project with almost no knowledge of how a keyboard works or the parts it consisted of, and over this two-month journey, I learned how to make all the components to make a fully functional keyboard.
+I came into this project with almost no knowledge of how a keyboard works or the parts it consisted of, and over this two-month journey, I learned how to make all the components that make up a functional keyboard.
 
 ## Features
 - Unique split keyboard layout
@@ -12,7 +12,7 @@ I came into this project with almost no knowledge of how a keyboard works or the
 
 ## Why I Built It
 
-I've been wanting a split keyboard for a while after typing for hours on my laptop and experiencing hand pain and cramps. Mechanical keyboards have always appealed to me, and the Hack Club program Keeb was a great opportunity for me to build my own while learning the inner workings of a keyboard. I also liked the idea of how customizable my own keyboard would be as I could code what each key does instead of relying on the build-in funcitonality.
+I've been wanting a split keyboard for a while after typing for hours on my laptop and experiencing hand pain and cramps. Mechanical keyboards have always appealed to me, and the Hack Club program Keeb was a great opportunity for me to build my own while learning the inner workings of a keyboard. I also liked the idea of how customizable my own keyboard would be as I could code what each key does instead of relying on the built-in funcitonality.
 
 ## What I Learned
 
@@ -31,7 +31,7 @@ I learned ...
 
 The biggest challenge was definitely getting used to the applications (KiCad and Onshape) and their workflow. Not understanding the right sequence and way to do things, even with the help of Keeb's guide, cost me many hours of redoing things and searching into the depths of the internet to fix.
 
-  For KiCad, I didn't really finalize my layout on the schematic before moving onto the PCB editor and also put my left and right PCB on the same project, which goes against KiCad's method of designing PCBs.
+  For KiCad, I didn't really finalize my layout on the schematic before moving onto the PCB editor and also put my left and right PCB on the same project, which went against KiCad's method of designing PCBs. I spent a lot of time moving the right PCB into a new project but still had to redo most of it.
 
   For Onshape, I had no idea how to properly constrain my sketches, and my first iterations were filled with haphazard lengths and angles. I probably redid my sketch 10 times while designing the case. I do feel proud now in how far I've come in CADing since the beginning, and my sketches are much cleaner now.
 
@@ -50,14 +50,24 @@ The biggest challenge was definitely getting used to the applications (KiCad and
 
 ### 3D view
 |left view|right view|
-| --- | --- | 
+| --- | --- |
 | <img src="photos/kicad left 3D viewer front.png"> | <img src="photos/kicad right 3D viewer front.png"> |
 
 
 ## Case
 ### Left Case
+<img src="photos/final_case/left_case_overall.png" width="80%">
+<img src="photos/final_case/left_base.png" width="50%"> 
+<img src="photos/final_case/left_plate.png" width="50%"> 
+<img src="photos/final_case/left_top_frame.png" width="50%"> 
+<br>
 
 ### Right Case
+<img src="photos/final_case/right_case_overall.png" width="80%">
+<img src="photos/final_case/right_base.png" width="50%"> 
+<img src="photos/final_case/right_plate.png" width="50%"> 
+<img src="photos/final_case/right_top_frame.png" width="50%"> 
+<br>
 
 # Bill of Materials (BOM)
 
