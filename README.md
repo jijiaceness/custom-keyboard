@@ -1,6 +1,6 @@
 # My Custom Keyboard: Overview
 
-This is a fully custom 53-key split mechanical keyboard built from scratch, from the PCB to the 3D-printed case, developed with the support of Hack Club Program Keeb. 
+This is a fully custom 55-key split mechanical keyboard built from scratch, from the PCB to the 3D-printed case, developed with the support of Hack Club Program Keeb. 
 I came into this project with almost no knowledge of how a keyboard works or the parts it consisted of, and over this two-month journey, I learned how to make all the components that make up a functional keyboard.
 
 ## Features
@@ -76,8 +76,8 @@ The biggest challenge was definitely getting used to the applications (KiCad and
 |1   |Raspberry Pi Pico           |2       |SC0916                                            |$7.82     |
 |2   |Left PCB from JLCPCB        |1       |                                                  |$13.8     |
 |3   |Right PCB from JLCPCB       |1       |                                                  |$13.8     |
-|4   |Cherry MX Switches          |54      |70 count, Orange key switch.                      |$16.8     |
-|5   |1N4148 Diodes               |54      |100 count                                         |$3.91     |
+|4   |Cherry MX Switches          |55      |70 count, Orange key switch.                      |$16.8     |
+|5   |1N4148 Diodes               |55      |100 count                                         |$3.91     |
 |6   |M3xD4.6xL3.0 heatset inserts|52      |100 count                                         |$5.18     |
 |7   |M3x5mm screws               |7       |50 count                                          |$2.56     |
 |8   |M3x14mm screws              |6       |50 count                                          |$3.54     |
