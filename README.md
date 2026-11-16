@@ -1,6 +1,6 @@
 # My Custom Keyboard: Overview
 
-This is a fully custom 55-key split mechanical keyboard built from scratch, from the PCB to the 3D-printed case, developed with the support of Hack Club Program Keeb. 
+This is a fully custom 55-key split mechanical keyboard built from scratch, from the PCB to the 3D-printed case, developed with the support of Hack Club Program Keeb and Fabricate. 
 I came into this project with almost no knowledge of how a keyboard works or the parts it consisted of, and over this two-month journey, I learned how to make all the components that make up a functional keyboard.
 
 ## Features
@@ -12,7 +12,7 @@ I came into this project with almost no knowledge of how a keyboard works or the
 
 ## Why I Built It
 
-I've been wanting a split keyboard for a while after typing for hours on my laptop and experiencing hand pain and cramps. Mechanical keyboards have always appealed to me, and the Hack Club program Keeb was a great opportunity for me to build my own while learning the inner workings of a keyboard. I also liked the idea of how customizable my own keyboard would be as I could code what each key does instead of relying on the built-in funcitonality.
+I've been wanting a split keyboard for a while after typing for hours on my laptop and experiencing hand pain and cramps. Mechanical keyboards have always appealed to me, and Hack Club's programs were a great opportunity for me to build my own while learning the inner workings of a keyboard. I also liked the idea of how customizable my own keyboard would be as I could code what each key does instead of relying on the built-in functionality.
 
 ## What I Learned
 
