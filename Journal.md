@@ -155,7 +155,7 @@ I also had issues with importing my PCB and the attached 3D models because there
 <img src="photos/right PCB model onshape.png" width="70%">
 <br>
 
-**Total time spent: 2 h**
+**Total time spent: 3 h**
 
 ---
 
@@ -185,15 +185,7 @@ The left case with the base and plate done:
 <img src="photos/left_model_in_progress.png">
 <br>
 
-**Total time spent: 2 h**
-
----
-
-# September 20: Adding mounting holes
-
-I realized that I forgot to add mounting holes, but when I tried to sketch them, I realized that my case walls were way to thin. I had to edit the base, plate, and the top to accommodate for the extra width
-
-**Total time spent: 2 h**
+**Total time spent: 3 h**
 
 ---
 
