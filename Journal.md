@@ -256,13 +256,13 @@ I made the BOM and README all at once since I was in a bit of a time crunch (the
 # November 16: Changing Heat-set and Screw Holes in Case
 
 This entry is quite a bit later than my previous one because my project was moved to Fabricate and I was really busy with Atlantis, an 8-week CAD program.
-I realized that the screw holes in my case were created wrong; they were too small for the heat-set inserts and M3 screws I was planning to use and there was not enough room around them. As a result, I increased the heat-set holes to 4.6mm and adjusted plate dimensions to accommodate for the extra width.
+I realized that the screw holes in my case were created wrong; they were too small for the heat-set inserts and M3 screws I was planning to use and there was not enough room around them. As a result, I increased the heat-set holes to 4.6mm and adjusted plate dimensions to accommodate for the extra width. I then did the same for the other side.
 
 |||
 | --- | --- |
 | <img src="photos/heatset_sk_base.png"> | <img src="photos/heatset_sk_plate.png"> |
 <br>
 
-**Total time spent: 1 h 30 m**
+**Total time spent: 2 h**
 
 ---
