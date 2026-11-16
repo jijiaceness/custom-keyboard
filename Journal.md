@@ -109,7 +109,7 @@ This was also the time I realized my big mistake of not making two separate proj
 I had to make many backup versions and restart KiCad a lot to somehow separate the two PCBs without losing all my progress.
 Unfortunately, when I redid my schematic editor and updated my PCB in the PCB editor, the whole layout was lost and I basically had to redo it.
 
-**Total time spent: Time spent (Formatting: 1 h 30m or 1 hour or 30 minutes)**
+**Total time spent: 4 h**
 
 ---
 
