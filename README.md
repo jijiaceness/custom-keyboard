@@ -56,17 +56,17 @@ The biggest challenge was definitely getting used to the applications (KiCad and
 
 ## Case
 ### Left Case
-<img src="photos/final_case/left_case_overall.png" width="80%">
+<img src="photos/final_case/left_case.png" width="80%">
 <img src="photos/final_case/left_base.png" width="50%"> 
 <img src="photos/final_case/left_plate.png" width="50%"> 
-<img src="photos/final_case/left_top_frame.png" width="50%"> 
+<img src="photos/final_case/left_frame.png" width="50%"> 
 <br>
 
 ### Right Case
-<img src="photos/final_case/right_case_overall.png" width="80%">
+<img src="photos/final_case/right_case.png" width="80%">
 <img src="photos/final_case/right_base.png" width="50%"> 
 <img src="photos/final_case/right_plate.png" width="50%"> 
-<img src="photos/final_case/right_top_frame.png" width="50%"> 
+<img src="photos/final_case/right_frame.png" width="50%"> 
 <br>
 
 # Bill of Materials (BOM)
