@@ -263,6 +263,6 @@ I realized that the screw holes in my case were created wrong; they were too sma
 | <img src="photos/heatset_sk_base.png"> | <img src="photos/heatset_sk_plate.png"> |
 <br>
 
-**Total time spent: 1 h 30 m h**
+**Total time spent: 1 h 30 m**
 
 ---
