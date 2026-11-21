@@ -258,3 +258,22 @@ I realized that the screw holes in my case were created wrong; they were too sma
 **Total time spent: 2 h**
 
 ---
+
+# November 20: Making Left Keyboard Case Assembly
+
+Today, I made the assembly for my left keyboard case after my keyboard was returned in Fabricate. I was having issues with Onshape lagging previously with my pcb, but I changed my switch model to a simpler one, and I had very few issues.
+
+<img src="photos/simplified_switch_model.png">
+<br>
+
+I spent a lot of time looking for 3D models of heat set inserts and screws in the dimensions I wanted. I ended up having to alter them a bit in Onshape to get them in the right size, like changing the outer diameter of the heat set insert to 4.6 mm and the M3 screw to 14mm.
+<br>
+
+|||
+| --- | --- |
+| <img src="photos/left_base_screws.png"> | <img src="photos/left_plate_screws.png"> |
+<br>
+
+**Total time spent: 3 h 30 m**
+
+---
