@@ -55,6 +55,11 @@ The biggest challenge was definitely getting used to the applications (KiCad and
 
 
 ## Case
+### Source Files with assembly
+[Left case](https://cad.onshape.com/documents/fa5fa6360693a03673871f09/w/25126f85bd3960f5f28efbb0/e/a26264de4874828cfd9f79df)
+<br>
+[Right case](https://cad.onshape.com/documents/7974a6f7da6a72532531c1a5/w/41404eed9ec4bb1b23890a85/e/6bf59948800cdff92a9d456b)
+
 ### Left Case
 <img src="photos/final_case/left_case.png" width="80%">
 <img src="photos/final_case/left_base.png" width="50%"> 
@@ -68,6 +73,7 @@ The biggest challenge was definitely getting used to the applications (KiCad and
 <img src="photos/final_case/right_plate.png" width="50%"> 
 <img src="photos/final_case/right_frame.png" width="50%"> 
 <br>
+
 
 # Bill of Materials (BOM)
 
