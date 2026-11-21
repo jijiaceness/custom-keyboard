@@ -1,6 +1,6 @@
 ---
 title: "Custom Keyboard"
-github: "[Link to your Github Repo](https://github.com/jijiaceness/custom-keyboard)"
+github: "https://github.com/jijiaceness/custom-keyboard"
 description: "A fully custom 55-key split mechanical keyboard built from scratch, featuring ortholinear keys and an RJ45 socket that supports hot-plugging"
 created_at: "2026-08-10"
 ---
@@ -275,5 +275,19 @@ I spent a lot of time looking for 3D models of heat set inserts and screws in th
 <br>
 
 **Total time spent: 3 h 30 m**
+
+---
+
+# November 20: Making Right Keyboard Case Assembly
+
+I made the right case assembly after importing the new right pcb. I finished it a lot quicker because there were less technical difficulties and I could use the heat set inserts and screws from the left keyboard part studios.
+<br>
+
+|||
+| --- | --- |
+| <img src="photos/right_screws_base.png"> | <img src="photos/right_screws_plate.png"> |
+<br>
+
+**Total time spent: 30 m**
 
 ---
